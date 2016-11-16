@@ -128,7 +128,7 @@
         Tout le monde peut voir le code et comprendre son 
         mécanisme, le modifier et le distibuer à travers le monde. Mais,
         le plus important est ce qu'il peut être évalué et prové de ne pas
-        contenir des codes mais qu'il ne fait rien de maliacieux
+        contenir des codes malicieux.
 
         Taskhive est conçu dans un environnement complètement FOSS par
         de vaillants supporteurs du software libre.
@@ -137,32 +137,33 @@
         Free
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is free(as in beer). There is no charge to do any
-        business on Taskhive. The exceptions are cases when escrow is
-        involved to mitigate financial risk. This is charged at the
-        market rate offered by the agent themselves.
+        Taskhive est gratuit. Il n'y a pas de charges supplémentaires pour
+        effectuer du commerce.  Les exceptions sont les cas où l'entiercement 
+        est pour atténuer les risques financiers. Ceci est facturé au prix 
+        offert par l'agent lui-même.
 
-        All expenses for development of Taskhive are paid in full by
-        generous donations from third parties and the continued support
-        from the RZZT collective.
+        Toutes les dépenses pour le développement de Taskhive sont payées 
+        en totalité par des dons généreux de la part de tiers et le soutien 
+        continu du collectif RZZT.
 
-        Taskhive will always be free.
+        
+        Taskhive demeurera toujours gratuit
 
 
 
-        Privacy / Decentralization
+        Confidentialité / Décentralisation
         ───────────────────────────────────────────────────────────────
 
-        Taskhive is built from the ground up around user privacy. It is
-        developed with the assumption that local networks and ISPs
-        (either maliciously or by mandate) may be spying on your
-        traffic, and that your well-being is at risk from oppressive
-        regimes.
+        Taskhive est basé autour de la vie privée des utilisateurs. C'est 
+        développé avec l'idée que les réseaux locaux et les FAI (malicieusement 
+        ou par mandat) peuvent espionner votre Trafic et que votre bien-être 
+        risque d'être compromis par des régimes.
 
 
 
-        Security
+        Securité
         ───────────────────────────────────────────────────────────────
+
 
         Perfect security does not exist, but the next best thing is
         actively developed and patched open source code, publicly
